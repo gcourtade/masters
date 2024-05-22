@@ -1,7 +1,7 @@
-# Creation of novel PET-degrading enzymes with machine learning and the development of a high-throughput screening assay in *Vibrio natriegens*
+# Creation of novel PET-degrading enzymes with machine learning and the development of a screening assay in *Vibrio natriegens*
 ## Ingrid Moa Bolstad
 
-This GitHub repository contains the raw data and scripts for my master thesis  _Creation of novel PET-degrading enzymes with machine learning and the development of a high-throughput screening assay in Vibrio natriegens_.
+This GitHub repository contains the raw data and scripts for my master thesis.
 
 
 ## Contents
@@ -17,7 +17,7 @@ The folder **All_proteins** contains .pdb files of all _de novo_ proteins in thi
 
 **Thermofluor** contains data for the thermofluor assay. The notebook _Tm\_thermofluor.ipynb_ plots the raw data from _Measured\_temp\_fluorescence.xlsx_ and fits a Boltzmann sigmoidal curve to the data, and finds Tm as the inflection point.
 
-
+**Specialization** **project** contains all code from the previous part of this project.
 
 
 
