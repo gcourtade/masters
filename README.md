@@ -1,2 +1,2 @@
 # masters
- Scripts, data, etc for master thesis
+ Scripts, data, etc for master's theses
