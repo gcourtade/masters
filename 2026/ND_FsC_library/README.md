@@ -1,6 +1,7 @@
 # Oversikt over kode og data brukt i masteroppgave
 ## Nora Drøivoldsmo 
 
+```text
 .
 ├── FPLC
 │   ├── excel
@@ -29,4 +30,4 @@
     │   ├── integrals_4
     │   └── integrals_8
     └── timeresolved_2026.ipynb
-
+```
