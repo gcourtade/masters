@@ -1,5 +1,6 @@
 # Oversikt over kode og data brukt i masteroppgave
-## Nora Drøivoldsmo 
+
+Nora Drøivoldsmo 
 
 ```text
 .
